@@ -80,7 +80,7 @@ if "%NAME%"=="" echo "%NAME%" is not valid, please try again & goto:RETRY
 set FC=%NAME:~0,1%
 if "%FC%"==" " echo "%NAME%" is not valid, please try again & goto:RETRY
 reg add %HKCU% /v FName /t REG_SZ /d "%NAME%" /f
-echo.Press any key to exit . . .
+echo.Press any key to exit . . .(yadavsunil4796@gmail.com)
 pause>nul
 exit
 
