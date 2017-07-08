@@ -1,0 +1,92 @@
+Jio Live TV Stream Link
+
+
+Watch HD Channels Live Free
+Colors_HD           http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8
+Star_Plus_HD        http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Plus_HD/Star_Plus_HD_1200.m3u8
+Zee_TV_HD           http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_1200.m3u8
+Sony_HD             http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_1200.m3u8
+Life_OK_HD          http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Life_OK_HD/Life_OK_HD_1200.m3u8
+And_TV_HD           http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_TV_HD/And_TV_HD_1200.m3u8
+Sony_Max_HD         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1200.m3u8
+Star_Gold_HD        http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD_1200.m3u8
+Zee_Cinema_HD       http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_1200.m3u8
+Sony_Rox_HD         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Rox_HD/Sony_Rox_HD_1200.m3u8
+MTV_Beats_HD        http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_1200.m3u8
+Sony_SAB_HD         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_1200.m3u8
+Six_HD              http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Six_HD/Six_HD_1200.m3u8
+Ten_HD              http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u8
+Sony_ESPN_HD        http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8
+And_Pictures_HD     http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD_1200.m3u8
+Sony_Le_PLEX_HD     http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_1200.m3u8
+Movies_Now_HD       http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_1200.m3u8
+Sony_Pix_HD         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_1200.m3u8
+MNPLUS              http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_1200.m3u8
+Romedy_Now_HD       http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_1200.m3u8
+Star_Utsav          http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Utsav/Star_Utsav_800.m3u8
+Star_Sports_3       http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_800.m3u8
+
+
+
+Information Channels Live Free
+History_HD          http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_HD/History_HD_1200.m3u8
+Travel_XP_HD        http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP_HD/Travel_XP_HD_1200.m3u8
+Discovery_HD_World  http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_HD_World_1200.m3u8
+Animal_Planet_HD    http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_HD/Animal_Planet_HD_1200.m3u8
+TLC_HD_World        http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World/TLC_HD_World_1200.m3u8
+FYI_TV18            http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18_1200.m3u8
+
+
+Live Music Channels Free
+MTV                 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_800.m3u8
+Mastii              http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Mastii/Mastiii_800.m3u8
+9XM                 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9XM/9XM_800.m3u8
+Sony_Mix            http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_800.m3u8
+etc                 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/etc/etc_800.m3u8
+E_24                http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/E_24/E_24_800.m3u8
+9X_Jalwa            http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9X_Jalwa/9X_Jalwa_800.m3u8
+
+
+Watch Sports Channels in HD Free
+Neo_Sports          http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Neo_Sports/Neo_Sports_800.m3u8
+Ten_1               http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_1/Ten_1_800.m3u8
+Ten_2               http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_2/Ten_2_800.m3u8
+Ten_3               http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_3/Ten_3_800.m3u8
+
+
+News Channels Free Live without App
+Republic_TV         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Republic_TV/Republic_TV_800.m3u8
+ABP_News_India      http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_News_India/ABP_News_India_800.m3u8
+CNN_NEWS_18         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
+Aaj_Tak             http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_800.m3u8
+NDTV_24x7           http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_24x7/NDTV_24x7_800.m3u8
+CNN                 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNN/CNN_800.m3u8
+India_Today         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/India_Today/India_Today_800.m3u8
+Times_NOW           http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Times_NOW/Times_NOW_800.m3u8
+BBC_World_News      http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/BBC_World_News/BBC_World_News_800.m3u8
+NDTV_India          http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_India/NDTV_India_800.m3u8
+IBN_7               http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/IBN_7/IBN_7_800.m3u8
+Aaj_Tak_Delhi       http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak_Delhi/Aaj_Tak_Delhi_800.m3u8
+India_TV            http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/India_TV/India_TV_800.m3u8
+India_news          http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/India_news/India_news_800.m3u8
+News_Nation         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_Nation/News_Nation_800.m3u8
+News_24             http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_24/News_24_800.m3u8
+
+
+Watch Marathi Channels in HD Full Free without Jio App
+Colors_Marathi_HD   http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD.m3u8
+Maharashtra1        http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maharashtra1/Maharashtra1_800.m3u8
+ABP_Majha           http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_800.m3u8
+Zee_24_Taas         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_800.m3u8
+IBN_Lokmat          http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/IBN_Lokmat/IBN_Lokmat_800.m3u8
+TV9_Maharashtra     http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_800.m3u8
+
+
+Watch Cartoon Channels Live Free
+Sony_Yay_Hindi      http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8
+Cartoon_Network     http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network/Cartoon_Network_Hindi_800.m3u8
+Pogo_Hindi          http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_800.m3u8
+Nick_Hindi          http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_800.m3u8
+Nick_Junior         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior_800.m3u8
+sonic_Hindi         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_800.m3u8
+
