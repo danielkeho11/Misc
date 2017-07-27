@@ -9,6 +9,7 @@ Sony_HD             http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD
 Life_OK_HD          http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Life_OK_HD/Life_OK_HD_1200.m3u8
 And_TV_HD           http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_TV_HD/And_TV_HD_1200.m3u8
 Sony_Max_HD         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1200.m3u8
+Sony_Pal_HD         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pal/Sony_Pal_1200.m3u8
 Star_Gold_HD        http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD_1200.m3u8
 Zee_Cinema_HD       http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_1200.m3u8
 Sony_Rox_HD         http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Rox_HD/Sony_Rox_HD_1200.m3u8
