@@ -39,7 +39,7 @@ FYI_TV18            http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV1
 
 
 Live Music Channels Free
-MTV                 [http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_800.m3u8](http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_800.m3u8)
+MTV                 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_800.m3u8
 Mastii              http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Mastii/Mastiii_800.m3u8
 9XM                 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9XM/9XM_800.m3u8
 Sony_Mix            http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_800.m3u8
